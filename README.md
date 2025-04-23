@@ -1,6 +1,6 @@
 # DifussionMate - AI Image Generator using Stable Diffusion
 
-**Stable Bud** is an application built with `Tkinter` and `CustomTkinter` that allows users to generate AI images using prompts, powered by **Hugging Face's Stable Diffusion**.
+**DifussionMate ** is an application built with `Tkinter` and `CustomTkinter` that allows users to generate AI images using prompts, powered by **Hugging Face's Stable Diffusion**.
 
 ---
 
